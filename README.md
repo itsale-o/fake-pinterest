@@ -67,7 +67,7 @@ Esta seção é uma dedicada as capturas de tela feitas diretamente do projeto
 
 ## Processo de Criação
 
-O backend deste projeto foi todo construído com [Flask](https://flask.palletsprojects.com/en/2.3.x/), framework do Python para desenvolvimento web e o banco de dados foi inicialmente construído com SQLite.
+O backend deste projeto foi todo construído com [Flask](https://flask.palletsprojects.com/en/2.3.x/), framework do Python para desenvolvimento web e o banco de dados foi inicialmente construído com SQLite e para segurança da autenticação de usuário foi utilizado o `Bcrypt`.
 
 <div align="center">
   
